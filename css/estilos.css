@@ -1,11 +1,7 @@
 body {
     color: #333;
     text-align: left;
- 
-    font-family :'Courier New', Courier, monospace, Helvetica, sans-serif; 
-
-
-
+    font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
 }
 
 #cabecera {
@@ -17,8 +13,7 @@ body {
     padding: 0.5cm;
 }
 
-#cabecera #tagline
-{
+#cabecera #tagline {
     padding: 0 0 0 1cm;
     font-weight: normal;
     padding: 0.5cm;
