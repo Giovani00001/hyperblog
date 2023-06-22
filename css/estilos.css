@@ -35,3 +35,12 @@ body {
     padding: 1cm;
 
 }
+
+#footer{
+    width: 40%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid #d52e2e;
+    margin: 0 auto;
+
+}
