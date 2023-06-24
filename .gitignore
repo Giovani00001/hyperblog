@@ -1,3 +1,4 @@
 *.png
 *.jpg
+#se pone una excepcion
 !Dr.jpg
