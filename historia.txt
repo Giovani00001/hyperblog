@@ -12,3 +12,8 @@ main 2
 pa validar el marge
 
 main 1
+<<<<<<< HEAD
+=======
+
+exp1
+>>>>>>> 1ff6ea7 (EXP1)
